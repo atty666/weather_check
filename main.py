@@ -1,6 +1,6 @@
 import requests
 import datetime
-from secret import open_weather_token
+from hidden import open_weather_token
 from pprint import pprint
 
 def get_weather (city, open_weather_token):

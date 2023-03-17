@@ -1,2 +1,2 @@
-emoji ="\U0001F32B"
+emoji ="\U0001F4AA"
 print(emoji)

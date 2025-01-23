@@ -64,3 +64,4 @@ async def get_weather(message: types.Message):
         await message.reply(f"Перевірте чи правильна назва міста \U0001F643")
 if __name__ == '__main__':
     executor.start_polling(dp)
+    #git commit update linera
